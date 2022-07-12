@@ -1,0 +1,6 @@
+orientacionAncho=48;
+        aux=4.35;
+        orientacionAlto=8;
+        aux2=77;
+        aux3=48;
+        aux4=8;

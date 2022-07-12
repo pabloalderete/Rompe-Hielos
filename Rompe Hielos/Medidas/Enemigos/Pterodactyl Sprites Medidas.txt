@@ -1,0 +1,76 @@
+******MOVIMIENTO******
+Izquierda:
+-Primer sprite:
+orientacionAncho=34;
+        aux=0;
+        orientacionAlto=18;
+        aux2=11.7;
+        aux3=34;
+        aux4=19;
+
+-Segundo sprite:
+orientacionAncho=34;
+        aux=1.17;
+        orientacionAlto=16;
+        aux2=13.25;
+        aux3=35;
+        aux4=16;
+
+-Tercer sprite:
+orientacionAncho=34;
+        aux=2.35;
+        orientacionAlto=16;
+        aux2=13.25;
+        aux3=35;
+        aux4=16;
+
+Derecha:
+-Primer sprite:
+ orientacionAncho=34;
+        aux=5.88;
+        orientacionAlto=18;
+        aux2=11.7;
+        aux3=35;
+        aux4=19;
+
+
+-Segundo sprite:
+orientacionAncho=34;
+        aux=4.70;
+        orientacionAlto=16;
+        aux2=13.25;
+        aux3=35;
+        aux4=16;
+
+-Tercer sprite:
+ orientacionAncho=34;
+        aux=3.52;
+        orientacionAlto=16;
+        aux2=13.25;
+        aux3=35;
+        aux4=16;
+
+*****INICIO DEL JUEGO*****
+-Primer sprite:
+ orientacionAncho=34;
+        aux=3.55;
+        orientacionAlto=29;
+        aux2=8.11;
+        aux3=34;
+        aux4=30;
+
+-Segundo sprite:
+orientacionAncho=33;
+        aux=4.85;
+        orientacionAlto=30;
+        aux2=7.86;
+        aux3=34;
+        aux4=30;
+
+-Tercer sprite:
+ orientacionAncho=34;
+        aux=5.91;
+        orientacionAlto=32;
+        aux2=7.34;
+        aux3=34;
+        aux4=32;

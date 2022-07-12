@@ -1,0 +1,35 @@
+***LOSE***
+
+-Primer Sprite:
+orientacionAncho=15;
+        aux=56.73;
+        orientacionAlto=21;
+        aux2=3;
+        aux3=16;
+        aux4=21;
+
+-Segundo Sprite:
+orientacionAncho=16;
+        aux=55.0625;
+        orientacionAlto=25;
+        aux2=2.44;
+        aux3=16;
+        aux4=25;
+
+***WIN***
+
+-Primer Sprite:
+orientacionAncho=17;
+        aux=53.52;
+        orientacionAlto=21;
+        aux2=3;
+        aux3=18;
+        aux4=21;
+
+-Segundo Sprite:
+orientacionAncho=23;
+        aux=40.73;
+        orientacionAlto=25;
+        aux2=2.44;
+        aux3=24;
+        aux4=25;

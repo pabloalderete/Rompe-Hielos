@@ -1,0 +1,67 @@
+******MOVIMIENTO******
+Izquierda:
+-Primer sprite:
+orientacionAncho=17;
+        aux=5.5;
+        orientacionAlto=18;
+        aux2=15.3;
+        aux3=17;
+        aux4=18;
+
+-Segundo sprite:
+orientacionAncho=17;
+        aux=3.7;
+        orientacionAlto=18;
+        aux2=15.3;
+        aux3=18;
+        aux4=18;
+
+-Tercer sprite:
+orientacionAncho=18;
+        aux=1.87;
+        orientacionAlto=17;
+        aux2=16.2;
+        aux3=18;
+        aux4=17;
+
+Derecha:
+-Primer sprite:
+orientacionAncho=17;
+        aux=7.2;
+        orientacionAlto=18;
+        aux2=15.3;
+        aux3=18;
+        aux4=18;
+
+-Segundo sprite:
+orientacionAncho=17;
+        aux=9;
+        orientacionAlto=18;
+        aux2=15.3;
+        aux3=17;
+        aux4=18;
+
+-Tercer sprite:
+ orientacionAncho=18;
+        aux=10.2;
+        orientacionAlto=17;
+        aux2=16.2;
+        aux3=18;
+        aux4=17;
+
+******MUERTE******
+-Primer sprite:
+orientacionAncho=17;
+        aux=0.2;
+        orientacionAlto=18;
+        aux2=15.3;
+        aux3=17;
+        aux4=18;
+
+-Segundo sprite:
+orientacionAncho=17;
+        aux=12.55;
+        orientacionAlto=18;
+        aux2=15.3;
+        aux3=17;
+        aux4=18;
